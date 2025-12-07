@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZoJWBjJRn1w=",
+  "success": true,
+  "projectFilePath": "/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/GeminiApiKey.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

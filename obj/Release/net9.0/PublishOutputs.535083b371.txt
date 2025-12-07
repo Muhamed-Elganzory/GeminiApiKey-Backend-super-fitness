@@ -1,0 +1,9 @@
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish/GeminiApiKey
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish/appsettings.json
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish/GeminiApiKey.dll
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish/GeminiApiKey.deps.json
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish/GeminiApiKey.runtimeconfig.json
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish/GeminiApiKey.pdb
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish/Microsoft.OpenApi.dll

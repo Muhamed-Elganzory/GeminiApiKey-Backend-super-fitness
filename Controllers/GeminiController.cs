@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GeminiApiKey.Controllers;
@@ -6,6 +7,7 @@ namespace GeminiApiKey.Controllers;
 ///     Controller responsible for communicating with the Gemini API.
 ///     Provides an endpoint to send a user message and return the AI response.
 /// </summary>
+[EnableCors("AllowAngular")]
 [ApiController]
 [Route("api/[controller]")]
 public class GeminiController : ControllerBase
