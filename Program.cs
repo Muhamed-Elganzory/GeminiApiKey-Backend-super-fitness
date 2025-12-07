@@ -9,14 +9,18 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowAngular", policy =>
     {
         // Allow requests only from this origin (Angular dev server)
-        policy.WithOrigins(
-                "http://localhost:4200",
-                "http://geminiapikey.runasp.net" // ⬅️ production URL
-            )
+        // .WithOrigins(
+        //         "http://localhost:4200",
+        //         "http://geminiapikey.runasp.net" // ⬅️ production URL
+        //     )
             // Allow all HTTP methods (GET, POST, PUT, DELETE, etc.)
-            .AllowAnyMethod()
+            // .AllowAnyMethod()
             // Allow any HTTP headers
-            .AllowAnyHeader();
+            // .AllowAnyHeader()
+            policy
+                .AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader();
     });
 });
 
