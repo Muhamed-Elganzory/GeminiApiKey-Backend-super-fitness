@@ -1,0 +1,24 @@
+# Secrets - DON'T COMMIT API KEYS!
+appsettings.Development.json
+appsettings.Production.json
+
+# Build results
+bin/
+obj/
+deploy/
+publish/
+output/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.DotSettings.user
+
+# OS
+.DS_Store
