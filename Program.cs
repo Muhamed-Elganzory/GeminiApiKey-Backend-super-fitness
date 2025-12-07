@@ -21,6 +21,7 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
+app.UseRouting();
 app.UseCors("AllowAngular");
 app.MapControllers();
 app.Run();
