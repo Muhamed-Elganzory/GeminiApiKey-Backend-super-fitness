@@ -29,6 +29,3 @@ app.UseRouting();
 app.UseCors("AllowAngular");
 app.MapControllers();
 app.Run();
-
-
-// /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish
