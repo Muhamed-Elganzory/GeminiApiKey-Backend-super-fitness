@@ -8,6 +8,10 @@
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Debug/net9.0/GeminiApiKey.pdb
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Debug/net9.0/DomainLayer.dll
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Debug/net9.0/Presentation.dll
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Debug/net9.0/Presentation.pdb
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Debug/net9.0/DomainLayer.pdb
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/obj/Debug/net9.0/GeminiApiKey.csproj.AssemblyReference.cache
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/obj/Debug/net9.0/rpswa.dswa.cache.json
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/obj/Debug/net9.0/GeminiApiKey.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,6 +20,7 @@
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/obj/Debug/net9.0/GeminiApiKey.csproj.CoreCompileInputs.cache
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/obj/Debug/net9.0/GeminiApiKey.MvcApplicationPartsAssemblyInfo.cs
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/obj/Debug/net9.0/GeminiApiKey.MvcApplicationPartsAssemblyInfo.cache
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/obj/Debug/net9.0/GeminiApiKey.sourcelink.json
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/obj/Debug/net9.0/rjimswa.dswa.cache.json
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json

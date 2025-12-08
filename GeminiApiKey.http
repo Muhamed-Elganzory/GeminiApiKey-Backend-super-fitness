@@ -1,6 +1,6 @@
 @GeminiApiKey_HostAddress = http://localhost:5057
 
-GET {{GeminiApiKey_HostAddress}}/weatherforecast/
+GET {{GeminiApiKey_HostAddress}}/api/Gemini/ask
 Accept: application/json
 
 ###

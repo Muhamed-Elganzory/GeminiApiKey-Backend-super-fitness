@@ -33,6 +33,35 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "DomainLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/DomainLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DomainLayer.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "Presentation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "DomainLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Presentation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Presentation.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -67,11 +96,22 @@
         "microsoft.openapi.1.6.17.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
+    },
+    "DomainLayer/1.0.0": {
+      "type": "project",
+      "path": "../DomainLayer/DomainLayer.csproj",
+      "msbuildProject": "../DomainLayer/DomainLayer.csproj"
+    },
+    "Presentation/1.0.0": {
+      "type": "project",
+      "path": "../Presentation/Presentation.csproj",
+      "msbuildProject": "../Presentation/Presentation.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Microsoft.AspNetCore.OpenApi >= 9.0.8"
+      "Microsoft.AspNetCore.OpenApi >= 9.0.8",
+      "Presentation >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -98,7 +138,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/Presentation/Presentation.csproj": {
+              "projectPath": "/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/Presentation/Presentation.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
