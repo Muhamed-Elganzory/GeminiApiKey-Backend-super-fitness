@@ -31,3 +31,7 @@
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/obj/Release/net9.0/GeminiApiKey.pdb
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/obj/Release/net9.0/GeminiApiKey.genruntimeconfig.cache
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/obj/Release/net9.0/ref/GeminiApiKey.dll
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/DomainLayer.dll
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/Presentation.dll
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/Presentation.pdb
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/DomainLayer.pdb

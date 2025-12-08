@@ -7,3 +7,7 @@
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish/GeminiApiKey.pdb
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish/Microsoft.AspNetCore.OpenApi.dll
 /Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish/Microsoft.OpenApi.dll
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish/DomainLayer.dll
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish/Presentation.dll
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish/Presentation.pdb
+/Users/macbook/Desktop/Ful-Stack/1- Front-End/6- Elevate/TASKS/Fitness/Gemini/GeminiApiKey/GeminiApiKey/bin/Release/net9.0/publish/DomainLayer.pdb
