@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeminiApiKey")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df8e0261c550929e344bd0946a0232d41e9b65e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d54caffc45cfbc212072f99cd5759f6cdf4f1968")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeminiApiKey")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeminiApiKey")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
